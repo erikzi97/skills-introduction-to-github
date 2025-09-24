@@ -1,5 +1,7 @@
 [![deployment pipeline](https://github.com/erikzi97/skills-introduction-to-github/actions/workflows/pipeline.yml/badge.svg?branch=my-first-branch)](https://github.com/erikzi97/skills-introduction-to-github/actions/workflows/pipeline.yml)
 
+[![say hello](https://github.com/erikzi97/skills-introduction-to-github/actions/workflows/hello.yaml/badge.svg?branch=my-first-branch)](https://github.com/erikzi97/skills-introduction-to-github/actions/workflows/hello.yaml)
+
 <img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
 
 ⭐️ Congratulations erikzi97! ⭐️
