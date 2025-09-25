@@ -1,0 +1,17 @@
+name: say hello
+
+on:
+  push:
+    branches:
+      - my-first-branch
+
+jobs:
+  hello_world:
+    runs-on: ubuntu-latest
+    steps:
+      - name: echo the message
+        run: |
+          echo "hola Erik"
+      - name: Dime la fecha
+        run: date
+      - run: ls -l
